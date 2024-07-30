@@ -13,7 +13,7 @@ This project demonstrates a simple setup to implement a test in NATS using the P
 1. **Clone the repository**
 
    ```sh
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/rui-alves/nats-php-test.git
    cd nats-php-test
    ```
 
